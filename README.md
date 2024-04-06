@@ -1,1 +1,1 @@
-# inferna
+# infernal
